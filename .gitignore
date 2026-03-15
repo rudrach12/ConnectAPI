@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables — NEVER commit this
+.env
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Database
+*.db
+*.sqlite
